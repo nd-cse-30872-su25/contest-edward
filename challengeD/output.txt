@@ -1,0 +1,8 @@
+There are 0 ways to achieve a score of 1:
+There is 1 way to achieve a score of 2:
+2
+There are 4 ways to achieve a score of 12:
+2 2 2 2 2 2
+2 2 2 3 3
+2 3 7
+3 3 3 3
