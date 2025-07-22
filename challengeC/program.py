@@ -9,6 +9,7 @@ def find_operations(target: int)-> list:
 def perms(operations: list, index: int, target: int)-> list:
     if index >= len(operations):
         return
+
     for i in range(index, len(operations)):
         operations[i] = "*"
         perms(operations, i+1, target)
